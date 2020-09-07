@@ -1,0 +1,297 @@
+[
+  {
+    "elements": [
+      {
+        "id": "test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Test subtraction, division and CE functionalities",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Open chrome browser and start application",
+            "result": {
+              "status": "passed",
+              "duration": 9900232654
+            },
+            "line": 3,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:10"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "value1",
+                      "2"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "value2",
+                      "2"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "operator",
+                      "/"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "name": "I enter following values and press CE button",
+            "result": {
+              "status": "passed",
+              "duration": 3756077
+            },
+            "line": 4,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:13"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "expected",
+                      "1"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "name": "I should be able to see",
+            "result": {
+              "status": "passed",
+              "duration": 473627
+            },
+            "line": 8,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 1705984911
+            },
+            "hidden": true,
+            "match": {
+              "location": "/usr/local/bin/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Test subtraction, division and CE functionalities",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Open chrome browser and start application",
+            "result": {
+              "status": "passed",
+              "duration": 3938016041
+            },
+            "line": 3,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:10"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "value1",
+                      "1"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "value2",
+                      "2"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "operator",
+                      "+"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "name": "I enter following values and press CE button",
+            "result": {
+              "status": "passed",
+              "duration": 1356734
+            },
+            "line": 4,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:13"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "expected",
+                      "3"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "name": "I should be able to see",
+            "result": {
+              "status": "passed",
+              "duration": 324953
+            },
+            "line": 8,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 1609431257
+            },
+            "hidden": true,
+            "match": {
+              "location": "/usr/local/bin/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Test subtraction, division and CE functionalities",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Open chrome browser and start application",
+            "result": {
+              "status": "passed",
+              "duration": 4182681859
+            },
+            "line": 3,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:10"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "value1",
+                      "66"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "value2",
+                      "52"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "operator",
+                      "-"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "name": "I enter following values and press CE button",
+            "result": {
+              "status": "passed",
+              "duration": 1430874
+            },
+            "line": 4,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:13"
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "expected",
+                      "14"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "name": "I should be able to see",
+            "result": {
+              "status": "passed",
+              "duration": 393441
+            },
+            "line": 8,
+            "match": {
+              "location": "/Users/bhargavayendluri/xendit-qa-assessment-master/step-definitions/calculator-steps.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 1706158315
+            },
+            "hidden": true,
+            "match": {
+              "location": "/usr/local/bin/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "test-online-calculator-scenarios",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Test online calculator scenarios",
+    "tags": [],
+    "uri": "/Users/bhargavayendluri/xendit-qa-assessment-master/features/calculator.feature"
+  }
+]

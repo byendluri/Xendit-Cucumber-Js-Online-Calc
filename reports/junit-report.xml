@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/bhargavayendluri/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="9.900232654">
+        </testcase>
+        <testcase name="When I enter following values and press CE button" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.003756077">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.000473627">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/bhargavayendluri/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="3.938016041">
+        </testcase>
+        <testcase name="When I enter following values and press CE button" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.001356734">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.000324953">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/bhargavayendluri/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="4.182681859">
+        </testcase>
+        <testcase name="When I enter following values and press CE button" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.001430874">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction,-division-and-ce-functionalities" time="0.000393441">
+        </testcase>
+    </testsuite>
+</testsuites>
